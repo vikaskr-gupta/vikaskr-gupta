@@ -1,7 +1,7 @@
-[![MasterHead]https://www.web-design-berwick.com.au/img/website-design-berwick.gif](https://vikaskr-gupta.io)
+<img src ="https://www.web-design-berwick.com.au/img/website-design-berwick.gif" width="100%"height="250px">
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/KZLfJCaSY7jM0GTc5i/giphy.webp")
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/KZLfJCaSY7jM0GTc5i/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaskr-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="vikaskr-gupta" /> </p>
 
