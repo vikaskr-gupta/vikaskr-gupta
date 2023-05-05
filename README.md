@@ -2,7 +2,7 @@
 )
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/KZLfJCaSY7jM0GTc5i/giphy.gif?cid=ecf05e47joiuz84ksld71em7j36myo5k7bz7a3n4or74yz6k&ep=v1_gifs_related&rid=giphy.gif&ct=g
+(img align="right" alt="Coding" width="400" src="[https://media3.giphy.com/media/KZLfJCaSY7jM0GTc5i/giphy.gif?cid=ecf05e47joiuz84ksld71em7j36myo5k7bz7a3n4or74yz6k&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFkNjg5OWY5NTRkMGJiMmJjNmVlYWM0YTNmYWE3Njc2ZjgwZjdiYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KZLfJCaSY7jM0GTc5i/giphy.gif)
 ")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaskr-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="vikaskr-gupta" /> </p>
