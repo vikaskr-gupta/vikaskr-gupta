@@ -1,10 +1,10 @@
-[![MasterHead](https://www.web-design-berwick.com.au/img/website-design-berwick.gif
+<!-- [![MasterHead](https://www.web-design-berwick.com.au/img/website-design-berwick.gif
 )](https://vikaskr-gupta.io
-)
+) -->
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/KZLfJCaSY7jM0GTc5i/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaskr-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="vikaskr-gupta" /> </p>
@@ -32,7 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikaskr-gupta&show_icons=true&locale=en&layout=compact" alt="vikaskr-gupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikaskr-gupta&show_icons=true&locale=en" alt="vikaskr-gupta" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikaskr-gupta&show_icons=true&locale=en" alt="vikaskr-gupta" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikaskr-gupta&" alt="vikaskr-gupta" /></p>
-
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikaskr-gupta&" alt="vikaskr-gupta" /></p> -->
