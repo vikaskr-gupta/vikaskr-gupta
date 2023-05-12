@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vvikaskgupta86@gmail.com**
 
-- 📄 Know about my experiences [vikaskr-gupta.gitHub.io/resume.html](vikaskr-gupta.gitHub.io/resume.html)
+- 📄 Know about my experiences [https://vikaskr-gupta.gitHub.io/resume.html](https://vikaskr-gupta.gitHub.io/resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
