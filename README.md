@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/vikasku45433577" target="blank"><img src="https://img.shields.io/twitter/follow/vikasku45433577?logo=twitter&style=for-the-badge" alt="vikasku45433577" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**, **DSA**, and **DBMS** and also working on **Leetcode**
 
 - 👨‍💻 All of my projects are available at [https://vikaskr-gupta.github.io/vikaskr-gupta.portfolio.io/](https://vikaskr-gupta.github.io/vikaskr-gupta.portfolio.io/)
 
