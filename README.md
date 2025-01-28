@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/vikasku45433577" target="blank"><img src="https://img.shields.io/twitter/follow/vikasku45433577?logo=twitter&style=for-the-badge" alt="vikasku45433577" /></a> </p>
 
-- 🌱 I’m currently learning **Java**, **DSA**, and **DBMS** and also working on **Leetcode**
+- 🌱 I’m currently working in Javin Global.
 
 - 👨‍💻 All of my projects are available at [https://vikaskr-gupta.github.io/vikaskr-gupta.portfolio.io/](https://vikaskr-gupta.github.io/vikaskr-gupta.portfolio.io/)
 
-- 💬 Ask me about **HTML, CSS, C, Java**
+- 💬 Ask me about **React, Redux, JavaScript, Tailwind, Bootstrap, HTML, CSS, C, Java**
 
 - 📫 How to reach me **vvikaskgupta86@gmail.com**
 
@@ -23,11 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vikasku45433577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikasku45433577" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vikas-kumar-gupta-13877b257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-kumar-gupta-13877b257" height="30" width="40" /></a>
-<a href="https://fb.com/w3ird.vikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="w3ird.vikas" height="30" width="40" /></a>
-<a href="https://instagram.com/w3ird_vikas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w3ird_vikas" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vikaskrgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikaskrgupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikaskr-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikaskr-gupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vikaskrgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikaskrgupta" height="30" width="40" /></a>
 </p>
 
