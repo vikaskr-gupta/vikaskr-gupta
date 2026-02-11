@@ -13,11 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://vikaskr-gupta.github.io/vikaskr-gupta.portfolio.io/](https://vikaskr-gupta.github.io/vikaskr-gupta.portfolio.io/)
 
-- 💬 Ask me about **React, Redux, JavaScript, Tailwind, Bootstrap, HTML, CSS, C, Java**
+- 💬 Ask me about **React, Next, Redux, Zustand, JavaScript, TypeScript, Tailwind, Bootstrap, HTML, CSS, C++**
 
 - 📫 How to reach me **vvikaskgupta86@gmail.com**
-
-- 📄 Know about my experiences [Vikaskr-gupta's Resume](https://drive.google.com/file/d/17V6FoUn4PAHAGqHkiRAN7GrbJWZQ9KY8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
